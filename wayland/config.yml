@@ -1,0 +1,4 @@
+package:
+  name: wayland
+  version: 1.22.0-2.1
+  url: http://deb.debian.org/debian/pool/main/w/wayland/wayland_1.22.0-2.1.dsc
